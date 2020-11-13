@@ -1,5 +1,6 @@
 # HardCode_AutoClicker
 
 
-  <source src="Capture3.JPG" >
+<img src="Capture3.JPG">
+
 
